@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Vazir";
+  src: url("/assets/fonts/vazir/vazir.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: bold;
+  src: url("/assets/fonts/Dana-Bold.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/assets/fonts/Dana-Thin.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/assets/fonts/Dana-Light.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/assets/fonts/Dana-Regular.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/assets/fonts/Dana-Medium.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/assets/fonts/Dana-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/assets/fonts/Dana-UltraBold.ttf");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 950;
+  src: url("/assets/fonts/Dana-Black.ttf");
+}
