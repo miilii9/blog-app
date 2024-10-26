@@ -32,7 +32,7 @@ const LoginForm = () => {
     <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
       <FormProvider {...methods}>
         <form className="space-y-6" onSubmit={methods.handleSubmit(onSubmit)}>
-          <ControlledInput name="email" inputType="email" placeholder="ایمیل" />
+          <ControlledInput name="email" inputType="text" placeholder="ایمیل" />
           <ControlledInput
             name="password"
             inputType="password"

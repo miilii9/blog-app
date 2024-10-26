@@ -54,7 +54,7 @@ const ControlledInput: React.FC<ControlledInputProps> = ({
       />
       <ErrorMessage
         render={(errors) => (
-          <p className="whitespace-pre-wrap font-IranSans text-xs text-red-500">
+          <p className="whitespace-pre-wrap font-semibold text-xs text-red-500">
             {errors.message}
           </p>
         )}
