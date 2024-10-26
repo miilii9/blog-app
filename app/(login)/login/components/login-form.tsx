@@ -25,7 +25,7 @@ const LoginForm = () => {
     const token =
       "fvXuTVmLXIvHRxRw7McVbm1ERlGP13BY1EoopvWPViRBvFivV87cHs93yp0VpAZf";
     saveUserData(token);
-    router.push("/blogs");
+    router.replace("/blogs");
   };
 
   return (
